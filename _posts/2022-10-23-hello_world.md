@@ -1,8 +1,8 @@
 ---
 title: Hello world 
 date: 2022-10-23 12:00:00 +0000
-categories: [Blogging]
-tags: [welcome]
+categories: [Blogging, Personal]
+tags: [welcome, hello]     # TAG names should always be lowercase
 ---
 
 
