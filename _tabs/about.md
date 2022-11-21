@@ -6,7 +6,7 @@ order: 4
  
 # About
 
-This page is a repository for my past/current proyecs, and a place to share my thoughts on technology, machine learning and other things. As this is new site, I'm still working on it, so it's not complete yet and it's a bit empty, I'm working on a few projects that I'll be posting here soon, but for now I've make sure this part is ready. 
+This page is a repository for my past/current proyecs, and a place to share my thoughts on technology, machine learning and other things. It is also fairly new, and a work in progress, so it's not complete yet and it's a bit empty, I'm working on a few projects that I'll be posting here soon, but for now I've make sure this part is ready. 
 
 ## So, who are you?
 
@@ -21,9 +21,7 @@ At the current time (and if I'm honest most of the time) that's a difficult ques
 - currently learning how to use GitHub pages and Jekyll to host this website.
 
 
-
-
-If you are an employer looking at my website, Hello! I hope I'm giving a good first impression and you like what you see. You can get my CV [here](https://fabiancastellano.github.io/cv/fabian_castellano_modern_resume.pdf), it's also avaliable in [spanish](https://fabiancastellano.github.io/cv/fabian_castellano_modern_resume_spanish.pdf). Given that my CV is only one page long, I'm going to be a little more specific here. So, I have:
+If you are an employer looking at my website, Hello! I hope I'm giving a good first impression and you like what you see. You can get my CV [here](https://fabiancastellano.github.io/files/fabian_castellano_modern_resume.pdf), it's also avaliable in [spanish](https://fabiancastellano.github.io/files/fabian_castellano_modern_resume_spanish.pdf). Given that my CV is only one page long, I'm going to be a little more specific here. So, I have:
 
 - Experience working with python, particularly on the machine learning and data science side, more specifically:
     - Pandas
