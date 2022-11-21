@@ -48,7 +48,6 @@ If you are an employer looking at my website, Hello! I hope I'm giving a good fi
 I will be adding more to this list as I go, but I think that's a good start.
 
 
-
 ## So, what's this website?
 
 To be honest, I don't know. Even though I already wrote that "This page is a repository for my past/current proyecs" I hope it can be a little bit more. I want it to be a place where I can share my thoughts and ideas, save them so they can be a registry of me as a citizen of the internet, and a bit of a time capsule, so that future me can see how I was thinking at the moment and have a few laughs. I hope this is the place I can come back to and see how I was thinking, and how I've changed, and how far I've come.
