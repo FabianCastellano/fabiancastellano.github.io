@@ -10,20 +10,20 @@ This page is a repository for my past/current proyecs, and a place to share my t
 
 ## So, who are you?
 
-At the current time (and if I'm honest most of the time) that's a difficult question, but I guess I can try to describe myself via some facts, and at the moment of writing (2022-10-23) these are the facts:
+At the current time (and if I'm honest most of the time) that's a difficult question, but I guess I can try to describe myself via some facts, and at the moment of writing (2022-10-23) these are the facts. I am:
 
-- I'm a 24-year-old student from Chile
-- I'm currently finishing an engineering degree in mathematics (I'm not sure if that's the correct translation, but it's a degree in applied mathematics).
-- I'm weird coffee person. I love coffee and how amazing it can be when done with care and attention to detail.
-- I'm interested in data science, machine learning, web development, app development, and game development.
-- I'm also interested in hardware, PC building, and consumer electronics in general.
-- I'm good at python, but with a lot more to learn, and I'm planning on javascript and C++ next.
-- I'm currently learning how to use GitHub pages and Jekyll to host this website.
-- I like to believe I have a good sense of humor, but I'm not sure if that's true.
-
+- a 24-year-old student from Chile
+- currently finishing an engineering degree in mathematics (not sure if that's the correct translation, but it's a degree in applied mathematics).
+- weird coffee person. I love coffee and how amazing it can be when done with care and attention to detail.
+- interested in data science, machine learning, web development, app development, and game development.
+- also interested in hardware, PC building, and consumer electronics in general.
+- good at python, but with a lot more to learn. Also planning on javascript and C++ next.
+- currently learning how to use GitHub pages and Jekyll to host this website.
 
 
-If you are an employer looking at my website, Hello! I hope I'm giving a good first impression and you like what you see. You can get my CV [here](https://fabiancastellano.github.io/cv/fabian_castellano_modern_resume.pdf), it's also avaliable in [spanish](https://fabiancastellano.github.io/cv/fabian_castellano_modern_resume_spanish.pdf) Given that my CV is only one page long, I'm going to be a little more specific here. So, I have:
+
+
+If you are an employer looking at my website, Hello! I hope I'm giving a good first impression and you like what you see. You can get my CV [here](https://fabiancastellano.github.io/cv/fabian_castellano_modern_resume.pdf), it's also avaliable in [spanish](https://fabiancastellano.github.io/cv/fabian_castellano_modern_resume_spanish.pdf). Given that my CV is only one page long, I'm going to be a little more specific here. So, I have:
 
 - Experience working with python, particularly on the machine learning and data science side, more specifically:
     - Pandas
