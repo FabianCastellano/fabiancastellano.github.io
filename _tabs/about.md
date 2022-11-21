@@ -4,7 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
  
-# About
 
 This page is a repository for my past/current proyecs, and a place to share my thoughts on technology, machine learning and other things. It is also fairly new, and a work in progress, so it's not complete yet and it's a bit empty, I'm working on a few projects that I'll be posting here soon, but for now I've make sure this part is ready. 
 
