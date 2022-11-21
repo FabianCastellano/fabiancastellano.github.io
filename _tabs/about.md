@@ -20,7 +20,7 @@ At the current time (and if I'm honest most of the time) that's a difficult ques
 - currently learning how to use GitHub pages and Jekyll to host this website.
 
 
-If you are an employer looking at my website, Hello! I hope I'm giving a good first impression and you like what you see. You can get my CV [here](https://fabiancastellano.github.io/about/), it's also avaliable in [spanish](https://fabiancastellano.github.io/asstes/cv/fabian_castellano_modern_resume_spanish.pdf). Given that my CV is only one page long, I'm going to be a little more specific here. So, I have:
+If you are an employer looking at my website, Hello! I hope I'm giving a good first impression and you like what you see. You can get my CV [here](https://fabiancastellano.github.io/assets/cvs/fabian_castellano_modern.pdf), it's also avaliable in [spanish](https://fabiancastellano.github.io/assets/cvs/fabian_castellano_modern_resume.pdf). Given that my CV is only one page long, I'm going to be a little more specific here. So, I have:
 
 - Experience working with python, particularly on the machine learning and data science side, more specifically:
     - Pandas
