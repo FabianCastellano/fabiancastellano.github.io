@@ -45,6 +45,14 @@ If you are an employer looking at my website, Hello! I hope I'm giving a good fi
  
 - Experience working with git and GitHub.
 
+- Some experience working with web development, more specifically:
+    - HTML
+    - CSS
+    - Jekyll
+    - GitHub Pages
+
+- Some experience working with R and RStudio.
+
 I will be adding more to this list as I go, but I think that's a good start.
 
 
